@@ -1,5 +1,4 @@
 # Ignore tsconfig.json files!
 tsconfig.json
 
-# Build output
-dist/
+
