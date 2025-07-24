@@ -4,7 +4,7 @@ let userPassword = document.getElementById("userpassword") as HTMLInputElement;
 let imgUser = document.getElementById("imgUser") as HTMLImageElement;
 
 
-const password = () => {
+function password() {
 
     if (userPassword.type === "password") {
         userPassword.type = "text";
