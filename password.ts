@@ -12,6 +12,7 @@ function password() {
         imgUser.style.top = "2px"
     } else {
         imgUser.src = "image/img1.png"
-         userPassword.type = "password";
+        imgUser.style.top = "6px"
+        userPassword.type = "password";
     }
 }

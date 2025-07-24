@@ -9,6 +9,7 @@ function password() {
     }
     else {
         imgUser.src = "image/img1.png";
+        imgUser.style.top = "6px";
         userPassword.type = "password";
     }
 }
