@@ -53,6 +53,7 @@ body {
 }
 
 input {
+    position: relative;
     width: 360px;
     height: 47px;
     border-radius: 8px;
